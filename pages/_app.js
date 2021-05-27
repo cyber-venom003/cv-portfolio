@@ -1,5 +1,6 @@
 import '../styles/globals.css';
 import Layout from '../components/Layout';
+import Image from 'next/image';
 import { createMuiTheme, ThemeProvider, responsiveFontSizes } from '@material-ui/core';
 
 let theme = createMuiTheme({

@@ -28,7 +28,7 @@ export const getStaticProps = () => {
 
 const useStyles = makeStyles({
     page: {
-        paddingTop: '5%'
+        paddingTop: '2%'
     },
     link: {
         textDecoration: 'underline',

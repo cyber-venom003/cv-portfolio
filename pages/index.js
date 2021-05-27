@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => {
 export default function Home() {
   const classes = useStyles();
   return (
-    <Container style={{paddingTop: '5%'}}>
+    <Container style={{paddingTop: '2%'}}>
       <Grid container spacing={3} direction='column' alignItems='center' justify='center'>
         <Grid item>
           <Typography variant='h4' align='center' gutterBottom={true}>

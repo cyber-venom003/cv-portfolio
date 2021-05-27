@@ -7,7 +7,7 @@ import Avatar from '@material-ui/core/Avatar';
 
 const Contact = () => {
     return (
-    <Container style={{paddingTop: '5%'}}>
+    <Container style={{paddingTop: '2%'}}>
         <Typography variant='h3' style={{fontWeight: 600, marginTop: '5%'}} align='center'gutterBottom={true}>
             My Social Presence
         </Typography>

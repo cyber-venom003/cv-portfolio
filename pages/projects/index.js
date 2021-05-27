@@ -65,7 +65,7 @@ export const getStaticProps = () => {
 const Projects = ({ projects }) => {
     const classes = useStyles();
     return (
-    <Container style={{paddingTop: '5%'}}>
+    <Container style={{paddingTop: '2%'}}>
         <Typography variant='h3' style={{fontWeight: 600, marginTop: '5%'}} align='center'gutterBottom={true}>
             My Projects
         </Typography>
