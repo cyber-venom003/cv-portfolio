@@ -16,6 +16,11 @@ const blogs_data = {
             key: 1,
             medium_link: "https://medium.com/developer-student-clubs-iiit-allahabad/journey-from-a-rookie-to-hacker-my-first-hackathon-experience-at-hackout20-abb067237440",
         },
+        {
+            title: "1 year of Projects’ Development: A Developer's perspective👨‍💻",
+            key: 2,
+            medium_link: "https://medium.com/iiitians-network/1-year-of-projects-development-a-developers-perspective-b67794be7a3a",
+        },
     ]
 }
 
