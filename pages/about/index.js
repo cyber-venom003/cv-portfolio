@@ -35,7 +35,7 @@ const About = () => {
             </Typography>
             <br />
             <Typography variant='h5'>
-                Currently, I'm working on COMET Ecosystem. Find more about it at <a href="http://projectcomet.in" style={{textDecoration: 'underline'}}>projectcomet.in</a>☄️
+                Currently, I'm building COMET Ecosystem. Find more about it at <a href="https://cometlabs.in" style={{textDecoration: 'underline'}}>COMETLabs</a>☄️
             </Typography>
             <br />
             <Typography style={{fontWeight: 600, marginTop: '5%'}} variant='h3' align='center'gutterBottom={true}>
